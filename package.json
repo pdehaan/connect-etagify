@@ -22,5 +22,10 @@
   },
   "scripts": {
     "test": "mocha -R spec tests.js"
+  },
+  "bugs": "https://github.com/lloyd/connect-etagify/issues",
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/lloyd/connect-etagify/master/README.md"
   }
 }
